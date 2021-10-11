@@ -7,18 +7,16 @@
  <header>
 <h1> <strong> Meow </strong> </h1>
 </header>
-  <article>
-      <figure>
-            <img src="https://placekitten.com/300/300"/>
-            <figcaption> Timothy the Cat </figvcaption>
-      </figure>
-  <p> This is Timothy the Cat. He's a very nice young kitten. He drinks milk and eats Meow Mix.
-Timothy the Cat enjoys to look out the window and watch the passing cars.
+<article>
+<img src="https://placekitten.com/300/300"/>
+<p> This is Timothy the Cat. He's a very nice young kitten. He drinks milk and eats Meow Mix.
+Timothy the Cat enjoys to look out the window and watch the passing cars. 
 Once in a while Timothy the Cat will occasionally <strong> meow </strong> at passing birds that he see's fly by.</p>
-  <p>One day, Timothy the Cat meowed at a certain bird with orange feathers. The bird sat in the nearest branch to
-observe the curious movements of the feline. The bird was very intregued.
+<p>One day, Timothy the Cat meowed at a certain bird with orange feathers. The bird sat in the nearest branch to
+observe the curious movements of the feline. The bird was very intregued. 
 He stopped by everyday at around the same time to say hello to Timothy the Cat who would surely be enjoying
 the morning sun on the other side of the winow sill. </p>
-  </article>
-  </body>
+</article>
+</body>
 </html>
+
