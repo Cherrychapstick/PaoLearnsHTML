@@ -1,0 +1,15 @@
+h1{
+  color: #E1578A;
+  font-family:Arial;
+}
+
+p{
+  background:#FCD2D1;
+}
+
+img {
+  border: 3px solid black;
+}
+article {
+    width: 800px;
+}
