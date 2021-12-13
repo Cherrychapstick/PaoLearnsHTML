@@ -15,7 +15,8 @@ h1#page-title{
   letter-spacing:-3px;
   color: black;
   font-family:Arial;
-  text-align: center;
+  text-align: center;letter-spacing:2px;
+
 }
 
 figure.first-image{
