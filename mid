@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+  <meta charset="utf-8">
+      <title>Hy's Cider Mill</title>
+      <link rel="stylesheet" href="midtermstyle.css">
+    </head>
+    <body>
+      <header>
+          <div class="container">
+          <h1 id="site-title"> Hy's Cider Mill </h1>
+        </div>
+      </header>
+        <main>
+          <article>
+        <figure class="center-image">
+          <img alt="Red apples lay on a bucket."src="https://img1.10bestmedia.com/Images/Photos/382114/GettyImages-1170488500_54_990x660.jpg"/>
+          <figcaption> 2350 37 Mile RD. Romeo, MI 48065 Call:  (810)-798-3611 </figcaption>
+          <p>Image Source: Palmisano K.(September 22,2020).Unique apple varieties you need to try this fall, Getty Images,https://www.10best.com/interests/food-culture/types-of-apple-varieties-fall/ </p>
+          <p> Open September 7th- Nov. 3rd</p>
+                <p> <strong>Weekends Only</strong></p>
+              <p> 11:00am-6:00pm</p>
+        </figure>
+        <h1 id="picking">Dates For Pick-Your-Own:</h1>
+          <h1 id="honey-crisp"> Honey Crisp: In store only beggining September 14th </h1>
+            <h1 id="announcement"> Most varieties will be avaiable for picking at least 2-3 weeks after their beggining dates. </h1>
+            <figure class="times">
+        <p>
+          <table>
+    <table>
+      <tr>
+        <th>September 7th: </th>
+        <td>Macintosh Gala</td>
+        <th>September 14th:</th>
+        <td>Cortland</td>
+        <th>September 21st:</th>
+        <td>Empire</td>
+      </tr>
+      <tr>
+        <th>September 28th: </th>
+        <td>Jonagold</td>
+        <th>October 5th:</th>
+        <td>Red & Golden Delicious</td>
+        <th>October 12:</th>
+        <td>Northern Spys & Ida Red</td>
+      </tr>
+      <tr>
+        <th>October 19: </th>
+        <td>Fuji & Russett</td>
+      </tr>
+    </table>
+        </p>
+      </article>
+    </main>
+    <footer id="site-footer">
+      <p> 2350 37 Mile RD. Romeo, MI 48065</p>
+        <p> Call:  (810)-798-3611   </p>
+          <p> Hy's Cider Mill</p>
+        </figure>
+      </nav>
+    </footer>
+    </body>
+</html>
