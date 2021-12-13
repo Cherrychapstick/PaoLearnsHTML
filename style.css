@@ -1,6 +1,24 @@
-h1{
+
+h1#site-title{
+  font-size: 60px;
+  letter-spacing:-3px;
+  margin-top:0;
+  margin-bottom: .125em;
   color: #E1578A;
   font-family:Arial;
+  text-align: center;
+}
+
+h1#page-title{
+  font-size: 30px;
+  letter-spacing:-3px;
+  color: black;
+  font-family:Arial;
+  
+}
+
+figure.first-image{
+background:#ffec59;
 }
 
 p{
