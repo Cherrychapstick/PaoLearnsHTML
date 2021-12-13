@@ -1,0 +1,52 @@
+h1#site-title{
+  font-size: 60px;
+  letter-spacing:-3px;
+  margin-top:0;
+  margin-bottom: .125em;
+  color: green;
+  font-family:Arial;
+  text-align: center;
+}
+figure.center-image{
+  background: red;
+  border-color:black;
+  color:white;
+  margin-bottom: 30px;
+    text-align: center;
+}
+h1#picking{
+  font-size: 30px;
+  letter-spacing:3px;
+  margin-top:4;
+  margin-bottom: .125em;
+  color: red;
+  font-family:Arial;
+  text-align: center;
+}
+
+h1#honey-crisp{
+  font-size: 15px;
+  text-align: center;
+}
+figure.times{
+  background:yellow;
+  border-color:black;
+  color:green;
+  margin-bottom: 30px;
+  table-layout: center;
+}
+
+footer#site-footer {
+  padding: 32px 0;
+  margin-top: 64px;
+  text-align: center;
+  background-color:green;
+  color: white;
+}
+h1#announcement{
+  font-size: 12px;
+  letter-spacing:3px;
+  color: gray;
+  font-family:Arial;
+  text-align: center;
+}
