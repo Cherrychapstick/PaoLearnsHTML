@@ -7,6 +7,7 @@ h1#site-title{
   color: #E1578A;
   font-family:Arial;
   text-align: center;
+ max-width:100%;
 }
 
 h1#page-title{
@@ -14,10 +15,15 @@ h1#page-title{
   letter-spacing:-3px;
   color: black;
   font-family:Arial;
+  text-align: center;
 }
 
 figure.first-image{
-background:#ffec59;
+  max-width:100%;
+  height:auto;
+  background:#ffec59;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 p{
